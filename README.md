@@ -57,7 +57,7 @@ flowchart TB
   API --> H[GET /health]
   API --> N[Notes CRUD]
   API --> DB[(SQLite)]
-  API --> M[Metrics (planned)]
+  API --> M[Metrics - planned]
 ```
 
 ## Repro steps
